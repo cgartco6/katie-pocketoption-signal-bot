@@ -1,0 +1,6 @@
+pandas
+pandas_ta
+ccxt
+python-dotenv
+python-telegram-bot==21.4
+asyncio
